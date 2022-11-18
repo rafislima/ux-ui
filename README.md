@@ -1,2 +1,3 @@
 # ux-ui
-Projetos de UX | UI Design
+
+<p> Meus projetos com base no estudo de UX e UI Design. </p>
